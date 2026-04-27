@@ -1,0 +1,28 @@
+# ============================================
+# 🎌 AniData Lab — Datasource Elasticsearch
+# Ce fichier est chargé automatiquement par Grafana au démarrage
+# ============================================
+apiVersion: 1
+
+deleteDatasources:
+  - name: Elasticsearch - Anime
+    orgId: 1
+
+datasources:
+  - name: Elasticsearch - Anime
+    uid: anidata-es
+    type: elasticsearch
+    access: proxy
+    url: http://elasticsearch:9200
+    database: anime
+    isDefault: true
+    editable: true
+    jsonData:
+      esVersion: "8.0.0"
+      timeField: "aired_start"
+      interval: "Yearly"
+      logLevelField: ""
+      logMessageField: ""
+      maxConcurrentShardRequests: 5
+      includeFrozen: false
+    version: 1

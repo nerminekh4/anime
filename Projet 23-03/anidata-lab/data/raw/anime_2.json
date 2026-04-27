@@ -1,0 +1,281 @@
+{
+  "source": "manga_db_v2",
+  "last_updated": "2025-03-01",
+  "records": [
+    {
+      "anime_id": 50265,
+      "name": "Spy x Family",
+      "genre": ["Action", "Comedy", "Slice of Life", "Shounen"],
+      "type": "TV",
+      "episodes": 25,
+      "rating": 8.61,
+      "members": 620450,
+      "year": 2022,
+      "studio": "Wit Studio"
+    },
+    {
+      "anime_id": 51009,
+      "name": "Jujutsu Kaisen Season 2",
+      "genre": ["Action", "Fantasy", "Shounen", "Supernatural"],
+      "type": "TV",
+      "episodes": 23,
+      "rating": 8.82,
+      "members": 534200,
+      "year": 2023,
+      "studio": "MAPPA"
+    },
+    {
+      "anime_id": 52991,
+      "name": "Sousou no Frieren",
+      "genre": ["Adventure", "Drama", "Fantasy", "Seinen"],
+      "type": "TV",
+      "episodes": 28,
+      "rating": 9.15,
+      "members": 489300,
+      "year": 2023,
+      "studio": "Madhouse"
+    },
+    {
+      "anime_id": 51179,
+      "name": "Chainsaw Man",
+      "genre": ["Action", "Fantasy", "Shounen", "Supernatural"],
+      "type": "TV",
+      "episodes": 12,
+      "rating": 8.54,
+      "members": 712800,
+      "year": 2022,
+      "studio": "MAPPA"
+    },
+    {
+      "anime_id": 49387,
+      "name": "Vinland Saga Season 2",
+      "genre": ["Action", "Adventure", "Drama", "Historical", "Seinen"],
+      "type": "TV",
+      "episodes": 24,
+      "rating": 8.72,
+      "members": 310500,
+      "year": 2023,
+      "studio": "MAPPA"
+    },
+    {
+      "anime_id": 53887,
+      "name": "Solo Leveling",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "type": "TV",
+      "episodes": 12,
+      "rating": 8.21,
+      "members": 405600,
+      "year": 2024,
+      "studio": "A-1 Pictures"
+    },
+    {
+      "anime_id": 55701,
+      "name": "Oshi no Ko Season 2",
+      "genre": ["Drama", "Supernatural", "Seinen"],
+      "type": "TV",
+      "episodes": 13,
+      "rating": 8.05,
+      "members": 298700,
+      "year": 2024,
+      "studio": "Doga Kobo"
+    },
+    {
+      "anime_id": 52034,
+      "name": "Dandadan",
+      "genre": ["Action", "Comedy", "Romance", "Sci-Fi", "Supernatural"],
+      "type": "TV",
+      "episodes": 12,
+      "rating": 8.67,
+      "members": 275400,
+      "year": 2024,
+      "studio": "Science SARU"
+    },
+    {
+      "anime_id": 54492,
+      "name": "Kaiju No. 8",
+      "genre": ["Action", "Sci-Fi", "Shounen"],
+      "type": "TV",
+      "episodes": 12,
+      "rating": 7.92,
+      "members": 312000,
+      "year": 2024,
+      "studio": "Production I.G"
+    },
+    {
+      "anime_id": 48583,
+      "name": "Shingeki no Kyojin: The Final Season Part 3",
+      "genre": ["Action", "Drama", "Fantasy", "Military", "Shounen"],
+      "type": "TV",
+      "episodes": 7,
+      "rating": 8.88,
+      "members": 456700,
+      "year": 2023,
+      "studio": "MAPPA"
+    },
+    {
+      "anime_id": 50709,
+      "name": "Oshi no Ko",
+      "genre": ["Drama", "Supernatural", "Seinen"],
+      "type": "TV",
+      "episodes": 11,
+      "rating": 8.45,
+      "members": 502300,
+      "year": 2023,
+      "studio": "Doga Kobo"
+    },
+    {
+      "anime_id": 51535,
+      "name": "Bocchi the Rock!",
+      "genre": ["Comedy", "Music", "Slice of Life"],
+      "type": "TV",
+      "episodes": 12,
+      "rating": 8.82,
+      "members": 289400,
+      "year": 2022,
+      "studio": "CloverWorks"
+    },
+    {
+      "anime_id": 49918,
+      "name": "Mob Psycho 100 III",
+      "genre": ["Action", "Comedy", "Slice of Life", "Supernatural"],
+      "type": "TV",
+      "episodes": 12,
+      "rating": 8.79,
+      "members": 267100,
+      "year": 2022,
+      "studio": "Bones"
+    },
+    {
+      "anime_id": 44511,
+      "name": "Cyberpunk: Edgerunners",
+      "genre": ["Action", "Sci-Fi"],
+      "type": "ONA",
+      "episodes": 10,
+      "rating": 8.60,
+      "members": 398500,
+      "year": 2022,
+      "studio": "Trigger"
+    },
+    {
+      "anime_id": 53446,
+      "name": "Mushoku Tensei II",
+      "genre": ["Adventure", "Drama", "Fantasy", "Ecchi"],
+      "type": "TV",
+      "episodes": 25,
+      "rating": 8.41,
+      "members": 305200,
+      "year": 2023,
+      "studio": "Studio Bind"
+    },
+    {
+      "anime_id": 55190,
+      "name": "Sakamoto Days",
+      "genre": ["Action", "Comedy", "Shounen"],
+      "type": "TV",
+      "episodes": 11,
+      "rating": 8.35,
+      "members": 198700,
+      "year": 2025,
+      "studio": "TMS Entertainment"
+    },
+    {
+      "anime_id": 52299,
+      "name": "Blue Lock",
+      "genre": ["Shounen", "Sports"],
+      "type": "TV",
+      "episodes": 24,
+      "rating": 8.09,
+      "members": 378900,
+      "year": 2022,
+      "studio": "8bit"
+    },
+    {
+      "anime_id": 50602,
+      "name": "Demon Slayer: Swordsmith Village Arc",
+      "genre": ["Action", "Fantasy", "Shounen", "Supernatural"],
+      "type": "TV",
+      "episodes": 11,
+      "rating": 8.17,
+      "members": 425600,
+      "year": 2023,
+      "studio": "ufotable"
+    },
+    {
+      "anime_id": 53998,
+      "name": "Tengoku Daimakyou",
+      "genre": ["Adventure", "Mystery", "Sci-Fi", "Seinen"],
+      "type": "TV",
+      "episodes": 13,
+      "rating": 8.36,
+      "members": 187600,
+      "year": 2023,
+      "studio": "Production I.G"
+    },
+    {
+      "anime_id": 54856,
+      "name": "Wind Breaker",
+      "genre": ["Action", "Shounen"],
+      "type": "TV",
+      "episodes": 13,
+      "rating": 7.85,
+      "members": 156300,
+      "year": 2024,
+      "studio": "CloverWorks"
+    },
+    {
+      "anime_id": 52701,
+      "name": "Kagurabachi",
+      "genre": ["Action", "Fantasy", "Shounen"],
+      "type": "TV",
+      "episodes": 12,
+      "rating": 7.78,
+      "members": 145200,
+      "year": 2025,
+      "studio": "Bones"
+    },
+    {
+      "anime_id": 56102,
+      "name": "Lazarus",
+      "genre": ["Action", "Sci-Fi"],
+      "type": "TV",
+      "episodes": 13,
+      "rating": 8.12,
+      "members": 112400,
+      "year": 2025,
+      "studio": "MAPPA"
+    },
+    {
+      "anime_id": 48569,
+      "name": "Tokyo Revengers: Tenjiku-hen",
+      "genre": ["Action", "Drama", "Shounen", "Supernatural"],
+      "type": "TV",
+      "episodes": 13,
+      "rating": 7.45,
+      "members": 234100,
+      "year": 2023,
+      "studio": "LIDENFILMS"
+    },
+    {
+      "anime_id": 49190,
+      "name": "Summer Time Rendering",
+      "genre": ["Mystery", "Supernatural", "Thriller"],
+      "type": "TV",
+      "episodes": 25,
+      "rating": 8.52,
+      "members": 265800,
+      "year": 2022,
+      "studio": "OLM"
+    },
+    {
+      "anime_id": 54112,
+      "name": "Undead Unluck",
+      "genre": ["Action", "Comedy", "Fantasy", "Shounen"],
+      "type": "TV",
+      "episodes": 24,
+      "rating": 7.65,
+      "members": 132500,
+      "year": 2023,
+      "studio": "David Production"
+    }
+  ]
+}

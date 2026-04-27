@@ -1,0 +1,43 @@
+RAPPORT DE VALIDATION — AniData Lab
+==================================================
+
+Dataset : output/anime_gold.csv
+Lignes  : 17,562
+Colonnes: 49
+
+Assertions passées  : 17
+Assertions échouées : 1
+Taux de réussite    : 94%
+
+──────────────────────────────────────────────────
+✅ PASS — Le dataset contient des données
+         Lignes : 17562
+✅ PASS — Au moins 10 000 animes
+         Lignes : 17,562
+✅ PASS — Clé primaire 'mal_id' unique
+✅ PASS — Aucun doublon exact
+✅ PASS — Colonne 'mal_id' sans NaN
+✅ PASS — Colonne 'name' sans NaN
+❌ FAIL — Colonne 'type' sans NaN
+         37 NaN trouvés
+✅ PASS — Taux global de NaN < 30%
+         Taux actuel : 16.1%
+✅ PASS — Scores entre 1 et 10 (hors NaN)
+         Min: 1.85, Max: 9.19
+✅ PASS — Aucun score = 0 (NaN déguisé nettoyé)
+✅ PASS — Épisodes > 0 (hors NaN)
+✅ PASS — Members ≥ 0
+✅ PASS — weighted_score > 0 (hors NaN)
+         Min: 8.12
+✅ PASS — drop_ratio entre 0 et 1
+         Min: 0.0000, Max: 1.0000
+✅ PASS — score_category dans les valeurs autorisées
+✅ PASS — studio_tier dans {Top, Mid, Indie}
+✅ PASS — Décennies cohérentes (1910-2030)
+         Min: 1910, Max: 2020
+✅ PASS — Toutes les colonnes textuelles encodables en UTF-8
+
+==================================================
+Fichiers exportés :
+  - output/anime_gold_validated.csv
+  - output/anime_gold.json

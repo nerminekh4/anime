@@ -1,0 +1,25 @@
+📦 TÉLÉCHARGEMENT DES DONNÉES
+==============================
+
+1. Rendez-vous sur :
+   https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020
+
+2. Connectez-vous à Kaggle (compte gratuit)
+
+3. Cliquez sur "Download" pour télécharger le ZIP complet
+
+4. Extrayez les fichiers suivants dans CE dossier (data/) :
+   - anime.csv              (~3 MB  - 17 562 animes)
+   - rating_complete.csv    (~700 MB - 57M ratings)
+   - anime_with_synopsis.csv (~5 MB  - synopsis textuels)
+
+5. (Optionnel) Pour le challenge avancé :
+   - animelist.csv          (~2.5 GB - 109M interactions)
+
+⚠️  Ne commitez PAS les CSV dans Git (ils sont dans le .gitignore)
+
+Vérification rapide :
+  $ ls -lh data/
+  anime.csv               3.2M
+  rating_complete.csv     718M
+  anime_with_synopsis.csv 5.1M

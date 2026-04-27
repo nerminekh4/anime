@@ -1,0 +1,22 @@
+# Données (trop volumineuses pour Git)
+data/*.csv
+data/*.zip
+
+# Airflow
+airflow/logs/*
+!airflow/logs/.gitkeep
+
+# Jupyter
+jupyter/notebooks/.ipynb_checkpoints/
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.env.local
